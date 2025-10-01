@@ -4,6 +4,13 @@ A **visual interactive tool** to help you understand SQL JOIN operations with **
 
 ---
 
+## View Live
+
+You can view the live project on GitHub Pages:  
+[https://shubhamselakoti.github.io/SQL-join-Query/](https://shubhamselakoti.github.io/SQL-join-Query/)
+
+---
+
 ## Table of Contents
 - [Features](#features)  
 - [Demo](#demo)  
